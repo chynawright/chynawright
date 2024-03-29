@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chynawright
 - 👀 I’m interested in Python and Web Design
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing at the momment :)
+- 🌱 I’m currently learning Python and QA Automation
+- 💞️ I’m looking to collaborate on nothing at the moment :)
 - ⚡ Fun fact: My highest score in bowling is 285
 
 <!---
